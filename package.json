@@ -1,0 +1,38 @@
+{
+  "name": "javascript-interview",
+  "version": "0.0.1",
+  "description": "Collection of notes and resources on Data Structures and Algorithms implemented in JavaScript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltamay/javascript-interview.git"
+  },
+  "keywords": [
+    "computer-science",
+    "cs",
+    "algorithms",
+    "data-structures",
+    "javascript",
+    "algorithm",
+    "javascript-algorithms",
+    "sorting-algorithms",
+    "graph",
+    "tree",
+    "interview",
+    "interview-preparation"
+  ],
+  "author": "Sal Tamay",
+  "license": "  MIT",
+  "bugs": {
+    "url": "https://github.com/saltamay/javascript-interview/issues"
+  },
+  "homepage": "https://github.com/saltamay/javascript-interview#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.17",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
