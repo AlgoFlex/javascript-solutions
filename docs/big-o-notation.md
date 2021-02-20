@@ -186,3 +186,8 @@ Often this "worst-case" stipulation is implied. But sometimes you can impress yo
     - Logarithmic: O(logn)
     - Linear: O(n)
     - Quadratic: O(n^2)
+
+
+### References
+
+📄 [Big O Notation](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?)
