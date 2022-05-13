@@ -11,9 +11,6 @@
  * Output: [4,9,9,25,100]
  *
  * Constraint: Time complexity of the solution should be O(n)
- *
- * @param nums
- * @returns {*[]}
  */
 export const sortedSquaredArray = (nums) => {
     const results = []
