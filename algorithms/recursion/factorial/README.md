@@ -6,17 +6,17 @@ Factorial of a non-negative integer, is multiplication of all positive integers 
 
 A factorial is represented by a number and a ” ! ” mark at the end. It is widely used in permutations and combination to calculate the total possible outcomes. A French mathematician Christian Kramp firstly used the exclamation.
 
-Example 1:
+    Example 1:
 
-Input: n = 6
-Output: 720
+    Input: n = 6
+    Output: 720
 
-Example 2:
+    Example 2:
 
-Input: n = 0
-Output: 1
+    Input: n = 0
+    Output: 1
 
-Example 3:
+    Example 3:
 
 Input: n = 1
 Output: 1
