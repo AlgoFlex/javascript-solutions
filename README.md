@@ -18,6 +18,7 @@
 ## Algorithms
 
 1. [Bubble Sort](https://github.com/AlgoFlex/javascript-solutions/blob/main/algorithms/sorting/bubbleSort/bubbleSort.js) <img src="https://img.shields.io/badge/-Easy-brightgreen" />
+1. [Factorial](https://github.com/AlgoFlex/javascript-solutions/blob/main/algorithms/recursion/factorial) <img src="https://img.shields.io/badge/-Easy-brightgreen" />
 1. [Insertion Sort](https://github.com/AlgoFlex/javascript-solutions/blob/main/algorithms/sorting/insertion-sort/insertion-sort.js) <img src="https://img.shields.io/badge/-Easy-brightgreen" />
 1. [Monotonic Array](https://github.com/AlgoFlex/javascript-solutions/blob/main/algorithms/sorting/monotonic-array/monotonic-array.js) <img src="https://img.shields.io/badge/-Easy-brightgreen" />
 1. [Sorted Squared Array](https://github.com/AlgoFlex/javascript-solutions/blob/main/algorithms/sorted-squared-array/sorted-squared-array.js) <img src="https://img.shields.io/badge/-Easy-brightgreen" />

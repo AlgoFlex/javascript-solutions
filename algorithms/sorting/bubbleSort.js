@@ -1,6 +1,6 @@
 /*
-Bubble Sort works by repeatedly swapping adjacent elements 
-that are out of order.
+  Bubble Sort works by repeatedly swapping adjacent elements 
+  that are out of order.
 */
 
 /**
